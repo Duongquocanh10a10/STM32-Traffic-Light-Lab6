@@ -1,0 +1,19 @@
+# STM32CubeIDE build artifacts
+Debug/
+Release/
+*.launch
+.settings/
+.cproject
+.project
+
+# Proteus temporary backup files
+*.pdsbak
+*.workspace
+Backup Of *
+Last Loaded *
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*~
+*.swp
